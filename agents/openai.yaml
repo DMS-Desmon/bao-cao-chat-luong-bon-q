@@ -1,0 +1,3 @@
+interface:
+  display_name: "Báo cáo chất lượng bồn Q"
+  short_description: "Đối chiếu TDS, xuất PDF và Excel theo dõi bồn Q"
